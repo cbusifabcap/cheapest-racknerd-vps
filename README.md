@@ -1,55 +1,48 @@
-📌 Data source: RackNerd official system
-⚠️ Stock and prices may change at any time
-🕒 2026-01-30 17:14:58
+# 💸 Cheapest RackNerd VPS Deals (2026)
 
-## 2026 年最值得买 TOP 3
-| # | VPS Title | Price | Tag | URL |
-|---|-----------|-------|-----|-----|
-| 1 | 768 MB KVM VPS | $10.28 | 🔥 推荐  | https://my.racknerd.com/aff.php?aff=7087 |
-| 2 | 1 GB KVM VPS (A Must Grab Deal) - LEB Exclusive | $10.29 | 🔥 推荐  | https://my.racknerd.com/aff.php?aff=7087 |
-| 3 | 1 GB KVM VPS (Black Friday 2025) | $10.6 |  | https://my.racknerd.com/aff.php?aff=7087 |
+Automatically updated list of the **cheapest RackNerd VPS** deals.
+Yearly KVM VPS offers with real-time stock and price comparison.
 
-## VPS 列表
-| # | VPS Title | Price | Tag | URL |
-|---|-----------|-------|-----|-----|
-| 695 | 768 MB KVM VPS | $10.28 | 🔥 推荐  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 810 | 1 GB KVM VPS (A Must Grab Deal) - LEB Exclusive | $10.29 | 🔥 推荐  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 923 | 1 GB KVM VPS (Black Friday 2025) | $10.6 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 358 | 1GB KVM VPS Special (LEB Exclusive) | $10.98 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 903 | 1 GB KVM VPS (New Year 2025) | $11.29 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 302 | (Custom) Ryzen 512MB VPS | $15.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 696 | 1.5GB KVM VPS | $16.88 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 523 | RYZEN NVMe - 1 GB Ryzen KVM VPS | $18.18 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 904 | 2 GB KVM VPS (New Year 2025) | $18.29 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 924 | 2.5 GB KVM VPS (Black Friday 2025) | $18.66 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 681 | 2 GB KVM VPS Special | $20.98 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 582 | KVM 512MB Custom Plan | $22.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 500 | Ryzen-512MB (Linux) | $22.99 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 571 | KVM 512MB VPS Plan | $22.99 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 210 | 1.5GB KVM VPS | $24.39 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 319 | New Locations Launch Sale - 1.5GB KVM VPS | $25.95 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 157 | (Custom) 2.5GB KVM VPS - Ticket #855790 | $26.25 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 136 | LEB New Website Special - 3.5GB KVM | $28.99 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 211 | 2.5GB KVM VPS | $29.5 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 925 | 4 GB KVM VPS (Black Friday 2025) | $29.98 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 125 | RackNerd KVM VPS Sale - 3.5GB | $30.19 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 524 | RYZEN NVMe - 2 GB Ryzen KVM VPS | $31.88 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 905 | 3.5 GB KVM VPS (New Year 2025) | $32.49 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 874 | Storage VPS Special - 100GB Storage | $35.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 787 | Custom 4 GB VPS Deal (Intel Xeon) | $35.49 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 61 | LARGE STORAGE - 2GB KVM | $36.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 320 | New Locations Launch Sale - 2.5GB KVM VPS | $39.95 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 487 | KVM VPS 2 GB RAM / 80GB Storage | $40.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 906 | 4 GB KVM VPS (New Year 2025) | $43.88 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 926 | 6 GB KVM VPS (Black Friday 2025) | $44.98 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 525 | RYZEN NVMe - 3 GB Ryzen KVM VPS | $48.79 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 62 | LARGE STORAGE - 4GB KVM | $59.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 907 | 6 GB KVM VPS (New Year 2025) | $59.99 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 340 | Black Friday - Windows 2GB RAM VPS | $60.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 927 | 8 GB KVM VPS (Black Friday 2025) | $62.49 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 435 | Windows 2.5 GB RAM VPS | $69.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 312 | Special 8GB KVM VPS Plan | $89.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 63 | LARGE STORAGE - 6GB KVM | $95.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 436 | Windows 4 GB RAM VPS | $115.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 64 | LARGE STORAGE - 8GB KVM | $135.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
-| 437 | Windows 12 GB RAM VPS | $289.0 |  | [https://my.racknerd.com/aff.php?aff=7087](https://my.racknerd.com/aff.php?aff=7087) |
+🕒 **Last Update (UTC):** 2026-01-29 16:17
+
+## 🏆 2026 年最值得买 TOP 3
+
+1. **$18.66/yr** · 2.5 GB · 45 GB SSD · 3000GB  
+   👉 [Buy Now](https://my.racknerd.com/aff.php?aff=7087&pid=924)
+
+2. **$29.98/yr** · 4 GB · 65 GB SSD · 6500GB  
+   👉 [Buy Now](https://my.racknerd.com/aff.php?aff=7087&pid=925)
+
+3. **$44.98/yr** · 6 GB · 100 GB SSD · 10,000GB  
+   👉 [Buy Now](https://my.racknerd.com/aff.php?aff=7087&pid=926)
+
+---
+
+## 🔥 Cheapest VPS Plans
+
+| Price ($/yr) | CPU | RAM | Storage | Bandwidth | Tag | Buy |
+|-------------|-----|-----|---------|-----------|-----|-----|
+| **$10.28** | 1 | 768 MB | 10 GB SSD | 1000GB | 🔥 推荐 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=695) |
+| **$10.29** | 1 | 1 GB | 20 GB SSD | 4000GB | 🔥 推荐 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=810) |
+| **$10.6** | 1 | 1 GB | 25 GB SSD | 2000GB | 🔥 推荐 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=923) |
+| **$10.98** | 1 | 1 GB | 17 GB SSD | 3000GB | 🔥 推荐 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=358) |
+| **$11.29** | 1 | 1 GB | 24 GB SSD | 2000GB | 💰 性价比 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=903) |
+| **$15.0** | 1 | 512 MB | 6 GB SSD | 400GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=302) |
+| **$16.88** | 1 | 1.5 GB | 30 GB SSD | 3000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=696) |
+| **$18.18** | 1 | 1 GB | 24 GB NVMe | 2500GB | 💰 性价比 | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=523) |
+| **$18.29** | 1 | 2 GB | 40 GB SSD | 3500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=904) |
+| **$18.66** | 2 | 2.5 GB | 45 GB SSD | 3000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=924) |
+| **$20.98** | 2 | 2 GB | 25 GB SSD | 4000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=681) |
+| **$22.0** | 1 | 512MB | 15 GB SSD | 500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=582) |
+| **$22.99** | 1 | 512 MB | 10 GB NVMe | 500GB | ⚡ NVMe | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=500) |
+| **$22.99** | 1 | 512MB | 15 GB SSD | 500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=571) |
+| **$24.39** | 1 | 1.5 GB | 25 GB SSD | 3000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=210) |
+| **$25.95** | 1 | 1.5 GB | 30 GB SSD | 3000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=319) |
+| **$26.25** | 3 | 2.5 GB | 50 GB SSD | 6500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=157) |
+| **$28.99** | 3 | 3.5 GB | 45 GB SSD | 7000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=136) |
+| **$29.5** | 2 | 2.5 GB | 40 GB SSD | 5000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=211) |
+| **$29.98** | 3 | 4 GB | 65 GB SSD | 6500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=925) |
+
+---
+📌 *Data source: RackNerd official system*  
+⚠️ *Stock and prices may change at any time*
