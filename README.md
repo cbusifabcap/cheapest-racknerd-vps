@@ -46,6 +46,5 @@ Yearly KVM VPS offers with real-time stock and price comparison.
 
 ---
 📌 *Data source: RackNerd official system*  
-⚠️ *Stock and prices may change at any time*
-🕒 Last update: 2026-01-30 16:10:41
-<!-- LAST_UPDATE --> 2026-01-30 16:10:41
+⚠ *Stock and prices may change at any time*
+🕒 *Last update: 2026-01-30 16:10:41*
