@@ -1,134 +1,51 @@
-# 🚀 Racknerd VPS 推荐
+📌 Data source: RackNerd official system
+⚠️ Stock and prices may change at any time
+🕒 2026-01-30 17:11:31
 
-## ⭐ 2026 年最值得买 TOP 3
+## 2026 年最值得买 TOP 3
+1. 768 MB KVM VPS - $10.28
+2. 1 GB KVM VPS (A Must Grab Deal) - LEB Exclusive - $10.29
+3. 1 GB KVM VPS (Black Friday 2025) - $10.6
 
-1. **未知套餐** ｜ $10.28/月 💰 性价比 🔥 推荐
-2. **未知套餐** ｜ $10.29/月 💰 性价比 🔥 推荐
-3. **未知套餐** ｜ $10.60/月 💰 性价比 🔥 推荐
-
----
-
-## 📦 全部套餐（按价格排序）
-
-- **未知套餐** ｜ $10.28/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=695)
-
-- **未知套餐** ｜ $10.29/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=810)
-
-- **未知套餐** ｜ $10.60/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=923)
-
-- **未知套餐** ｜ $10.98/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=358)
-
-- **未知套餐** ｜ $11.29/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=903)
-
-- **未知套餐** ｜ $15.00/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=302)
-
-- **未知套餐** ｜ $16.88/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=696)
-
-- **未知套餐** ｜ $18.18/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=523)
-
-- **未知套餐** ｜ $18.29/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=904)
-
-- **未知套餐** ｜ $18.66/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=924)
-
-- **未知套餐** ｜ $20.98/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=681)
-
-- **未知套餐** ｜ $22.00/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=582)
-
-- **未知套餐** ｜ $22.99/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=500)
-
-- **未知套餐** ｜ $22.99/月 ｜ 💰 性价比 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=571)
-
-- **未知套餐** ｜ $24.39/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=210)
-
-- **未知套餐** ｜ $25.95/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=319)
-
-- **未知套餐** ｜ $26.25/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=157)
-
-- **未知套餐** ｜ $28.99/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=136)
-
-- **未知套餐** ｜ $29.50/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=211)
-
-- **未知套餐** ｜ $29.98/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=925)
-
-- **未知套餐** ｜ $30.19/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=125)
-
-- **未知套餐** ｜ $31.88/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=524)
-
-- **未知套餐** ｜ $32.49/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=905)
-
-- **未知套餐** ｜ $35.00/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=874)
-
-- **未知套餐** ｜ $35.49/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=787)
-
-- **未知套餐** ｜ $36.00/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=61)
-
-- **未知套餐** ｜ $39.95/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=320)
-
-- **未知套餐** ｜ $40.00/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=487)
-
-- **未知套餐** ｜ $43.88/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=906)
-
-- **未知套餐** ｜ $44.98/月 ｜ 🔥 推荐
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=926)
-
-- **未知套餐** ｜ $48.79/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=525)
-
-- **未知套餐** ｜ $59.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=62)
-
-- **未知套餐** ｜ $59.99/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=907)
-
-- **未知套餐** ｜ $60.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=340)
-
-- **未知套餐** ｜ $62.49/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=927)
-
-- **未知套餐** ｜ $69.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=435)
-
-- **未知套餐** ｜ $89.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=312)
-
-- **未知套餐** ｜ $95.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=63)
-
-- **未知套餐** ｜ $115.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=436)
-
-- **未知套餐** ｜ $135.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=64)
-
-- **未知套餐** ｜ $289.00/月 ｜ 
-  👉 [立即查看](https://my.racknerd.com/aff.php?aff=7087&pid=437)
+## VPS 列表
+- 768 MB KVM VPS - $10.28 [🔥 推荐 ](https://my.racknerd.com/aff.php?aff=7087)
+- 1 GB KVM VPS (A Must Grab Deal) - LEB Exclusive - $10.29 [🔥 推荐 ](https://my.racknerd.com/aff.php?aff=7087)
+- 1 GB KVM VPS (Black Friday 2025) - $10.6 [](https://my.racknerd.com/aff.php?aff=7087)
+- 1GB KVM VPS Special (LEB Exclusive) - $10.98 [](https://my.racknerd.com/aff.php?aff=7087)
+- 1 GB KVM VPS (New Year 2025) - $11.29 [](https://my.racknerd.com/aff.php?aff=7087)
+- (Custom) Ryzen 512MB VPS - $15.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- 1.5GB KVM VPS - $16.88 [](https://my.racknerd.com/aff.php?aff=7087)
+- RYZEN NVMe - 1 GB Ryzen KVM VPS - $18.18 [](https://my.racknerd.com/aff.php?aff=7087)
+- 2 GB KVM VPS (New Year 2025) - $18.29 [](https://my.racknerd.com/aff.php?aff=7087)
+- 2.5 GB KVM VPS (Black Friday 2025) - $18.66 [](https://my.racknerd.com/aff.php?aff=7087)
+- 2 GB KVM VPS Special - $20.98 [](https://my.racknerd.com/aff.php?aff=7087)
+- KVM 512MB Custom Plan - $22.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- Ryzen-512MB (Linux) - $22.99 [](https://my.racknerd.com/aff.php?aff=7087)
+- KVM 512MB VPS Plan - $22.99 [](https://my.racknerd.com/aff.php?aff=7087)
+- 1.5GB KVM VPS - $24.39 [](https://my.racknerd.com/aff.php?aff=7087)
+- New Locations Launch Sale - 1.5GB KVM VPS - $25.95 [](https://my.racknerd.com/aff.php?aff=7087)
+- (Custom) 2.5GB KVM VPS - Ticket #855790 - $26.25 [](https://my.racknerd.com/aff.php?aff=7087)
+- LEB New Website Special - 3.5GB KVM - $28.99 [](https://my.racknerd.com/aff.php?aff=7087)
+- 2.5GB KVM VPS - $29.5 [](https://my.racknerd.com/aff.php?aff=7087)
+- 4 GB KVM VPS (Black Friday 2025) - $29.98 [](https://my.racknerd.com/aff.php?aff=7087)
+- RackNerd KVM VPS Sale - 3.5GB - $30.19 [](https://my.racknerd.com/aff.php?aff=7087)
+- RYZEN NVMe - 2 GB Ryzen KVM VPS - $31.88 [](https://my.racknerd.com/aff.php?aff=7087)
+- 3.5 GB KVM VPS (New Year 2025) - $32.49 [](https://my.racknerd.com/aff.php?aff=7087)
+- Storage VPS Special - 100GB Storage - $35.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- Custom 4 GB VPS Deal (Intel Xeon) - $35.49 [](https://my.racknerd.com/aff.php?aff=7087)
+- LARGE STORAGE - 2GB KVM - $36.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- New Locations Launch Sale - 2.5GB KVM VPS - $39.95 [](https://my.racknerd.com/aff.php?aff=7087)
+- KVM VPS 2 GB RAM / 80GB Storage - $40.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- 4 GB KVM VPS (New Year 2025) - $43.88 [](https://my.racknerd.com/aff.php?aff=7087)
+- 6 GB KVM VPS (Black Friday 2025) - $44.98 [](https://my.racknerd.com/aff.php?aff=7087)
+- RYZEN NVMe - 3 GB Ryzen KVM VPS - $48.79 [](https://my.racknerd.com/aff.php?aff=7087)
+- LARGE STORAGE - 4GB KVM - $59.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- 6 GB KVM VPS (New Year 2025) - $59.99 [](https://my.racknerd.com/aff.php?aff=7087)
+- Black Friday - Windows 2GB RAM VPS - $60.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- 8 GB KVM VPS (Black Friday 2025) - $62.49 [](https://my.racknerd.com/aff.php?aff=7087)
+- Windows 2.5 GB RAM VPS - $69.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- Special 8GB KVM VPS Plan - $89.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- LARGE STORAGE - 6GB KVM - $95.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- Windows 4 GB RAM VPS - $115.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- LARGE STORAGE - 8GB KVM - $135.0 [](https://my.racknerd.com/aff.php?aff=7087)
+- Windows 12 GB RAM VPS - $289.0 [](https://my.racknerd.com/aff.php?aff=7087)
