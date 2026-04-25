@@ -3,7 +3,7 @@
 Automatically updated list of the **cheapest RackNerd VPS** deals.
 Yearly KVM VPS offers with real-time stock and price comparison.
 
-🕒 **Last Update (UTC):** 2026-04-25 23:05:01:02:01:01:01:02:01:02:02:01:01:01:02:02:02:01:01:01:02:01:02:01:02:02
+🕒 **Last Update (UTC):** 2026-04-26 00:05:01
 
 ## 🏆 2026 年最值得买 TOP 3
 
@@ -24,6 +24,7 @@ Yearly KVM VPS offers with real-time stock and price comparison.
 |-------------|-----|-----|---------|-----------|-----|-----|
 | **$21.99** | 1 | 1 GB | 20 GB SSD | 3000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=952) |
 | **$22.0** | 1 | 512MB | 15 GB SSD | 500GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=582) |
+| **$22.99** | 1 | 512 MB | 10 GB NVMe | 500GB | ⚡ NVMe | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=500) |
 | **$35.99** | 2 | 2 GB | 35 GB SSD | 5000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=953) |
 | **$59.99** | 3 | 4 GB | 60 GB SSD | 7000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=954) |
 | **$89.99** | 6 | 6 GB | 100 GB SSD | 12,000GB |  | [Buy](https://my.racknerd.com/aff.php?aff=7087&pid=955) |
